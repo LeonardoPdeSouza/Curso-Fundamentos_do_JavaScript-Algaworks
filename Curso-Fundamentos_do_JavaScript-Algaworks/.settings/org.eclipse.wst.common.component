@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Curso-Fundamentos_do_JavaScript-Algaworks">
+        <wb-resource deploy-path="/" source-path="/WebContent"/>
+        <property name="context-root" value="Curso-Fundamentos_do_JavaScript-Algaworks"/>
+    </wb-module>
+</project-modules>
